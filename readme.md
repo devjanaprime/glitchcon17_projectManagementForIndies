@@ -37,10 +37,10 @@ Helps avoid/mitigate:
 - big balls of mud
 
 ---
-![ether](images/why0.png)
-![creep](images/why1.png)
-![holes](images/why2.png)
-![balls](images/why3.png)
+![ether](images/ether.png)
+![creep](images/creep.png)
+![holes](images/holes.png)
+![balls](images/balls.png)
 ---
 
 Lessons Learned
