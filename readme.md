@@ -45,6 +45,7 @@ Helps avoid/mitigate:
 
 Lessons Learned
 ===
+- DNA
 - guests
 - open floor anecdotes
 
