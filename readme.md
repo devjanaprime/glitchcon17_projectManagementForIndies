@@ -14,11 +14,14 @@ The Menu:
 
 Who Are We?
 ===
-- Dev Jana
+Dev Jana
+---
  - President of Code and Noises at DevNAri
  - Director of Instruction: Full Stack Development at Prime Digital Academy
  - Prior: Project Manager at Image Metrics, Tech. Dir. of R&D at Preferred Interactive, Tech. Dir. at BioLucid, Ast. Prof. of Game Design at Champlain College, Department Chair of Game Design at Collins College, Sound Designer at CME/MGM Interactive, Ast. Department Chair of Game Design at Brown College.
-- Ari Carrillo
+
+Ari Carrillo
+---
  - President of Visuals and Playtime at DevNAri
  - 3D Artist, Axonom
  - prior: Department Chair of Game Design at Brown College 
@@ -48,14 +51,19 @@ Lessons Learned
 
 What and How
 ===
-- Agile practices
+Agile practices
+---
  - stand ups
  - sprints
  - retrospectives 
-- Scrum
+
+Scrum
+---
  - Board
  - Hierarchy 
-- Workflow
+
+Workflow
+---
  - basic v. realistic 
  
 ![standups](images/standUps.png) 
