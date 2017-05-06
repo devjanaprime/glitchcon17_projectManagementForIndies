@@ -17,17 +17,23 @@ Who Are We?
 
 ![who](images/who.png) 
 
+[DevNAri](http://devnari.com)
+===
+
 Dev Jana
 ---
- - President of Code and Noises at DevNAri
- - Director of Instruction: Full Stack Development at Prime Digital Academy
- - Prior: Project Manager at Image Metrics, Tech. Dir. of R&D at Preferred Interactive, Tech. Dir. at BioLucid, Ast. Prof. of Game Design at Champlain College, Department Chair of Game Design at Collins College, Sound Designer at CME/MGM Interactive, Ast. Department Chair of Game Design at Brown College.
+- [@devjana](https://twitter.com/devjana)
+- President of Code and Noises at DevNAri
+- Director of Instruction: Full Stack Development at Prime Digital Academy
+- Prior: Project Manager at Image Metrics, Tech. Dir. of R&D at Preferred Interactive, Tech. Dir. at BioLucid, Ast. Prof. of Game Design at Champlain College, Department Chair of Game Design at Collins College, Sound Designer at CME/MGM Interactive, Ast. Department Chair of Game Design at Brown College.
 
 Ari Carrillo
 ---
- - President of Visuals and Playtime at DevNAri
- - 3D Artist, Axonom
- - prior: Department Chair of Game Design at Brown College 
+- President of Visuals and Playtime at DevNAri
+- 3D Artist, Axonom
+- prior: Department Chair of Game Design at Brown College 
+
+
 
 Why Project Management?
 ===
@@ -89,16 +95,17 @@ Agile/Scrum syntax and methodologies for breaking a project into manageable port
 
 Example 0:
 
-- Epic: Player Locomotion 1.0
-- Story: I want to double jump
-- Tasks: capture jump button at right time, not allow jump after peak jump, 
-- Related sub-tasks: input form, handshake with db
+- Epic: Player Profiles
+- Story: I want to log in
+- Tasks: Login UI 
+- Related sub-tasks: images for buttons, finalize copy text, code to display in engine
 
 ![hierarchy](images/hierarchy.png) 
 ![workflow](images/workflow.png) 
 ![sprints](images/sprints.png) 
 ![scrumBoard](images/scrumBoard.png) 
 ![scrumBoardTools](images/scrumBoardTools.png) 
+![retrospective](images/retrospective.png) 
 
 Indie Game Dev Specific Concerns
 ===
