@@ -22,20 +22,18 @@ Who Are We?
 [DevNAri](http://devnari.com)
 ===
 
-Dev Jana
----
-- [@devjana](https://twitter.com/devjana)
-- President of Code and Noises at DevNAri
-- Director of Instruction: Full Stack Development at Prime Digital Academy
-- Prior: Project Manager at Image Metrics, Tech. Dir. of R&D at Preferred Interactive, Tech. Dir. at BioLucid, Ast. Prof. of Game Design at Champlain College, Department Chair of Game Design at Collins College, Sound Designer at CME/MGM Interactive, Ast. Department Chair of Game Design at Brown College.
-
 Ari Carrillo
 ---
 - President of Visuals and Playtime at DevNAri
 - 3D Artist, Axonom
 - prior: Department Chair of Game Design at Brown College 
 
-
+Dev Jana
+---
+- [@devjana](https://twitter.com/devjana)
+- President of Code and Noises at DevNAri
+- Director of Instruction: Full Stack Development at Prime Digital Academy
+- Prior: Project Manager at Image Metrics, Tech. Dir. of R&D at Preferred Interactive, Tech. Dir. at BioLucid, Ast. Prof. of Game Design at Champlain College, Department Chair of Game Design at Collins College, Sound Designer at CME/MGM Interactive, Ast. Department Chair of Game Design at Brown College.
 
 Why Project Management?
 ===
@@ -45,6 +43,13 @@ Why Project Management?
 ![whatWhy](images/whatWhy2.png) 
 ![whatWhy](images/whatWhy3.png)
 ![whatWhy](images/whatWhy4.png)
+ 
+Help generate/maintain:
+---
+- Momentum
+- Scheduling
+- Communication
+- Focus
  
 Helps avoid/mitigate:
 ---
