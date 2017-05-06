@@ -14,6 +14,9 @@ The Menu:
 
 Who Are We?
 ===
+
+![who](images/who.png) 
+
 Dev Jana
 ---
  - President of Code and Noises at DevNAri
@@ -29,6 +32,12 @@ Ari Carrillo
 Why Project Management?
 ===
 
+![whatWhy](images/whatWhy0.png) 
+![whatWhy](images/whatWhy1.png) 
+![whatWhy](images/whatWhy2.png) 
+![whatWhy](images/whatWhy3.png)
+![whatWhy](images/whatWhy4.png)
+ 
 Helps avoid/mitigate:
 ---
 - issues lost to the ether
@@ -67,17 +76,34 @@ Workflow
 ---
  - basic v. realistic 
  
+ ---
+ 
 ![standups](images/standUps.png) 
+
+Agile/Scrum syntax and methodologies for breaking a project into manageable portions:
+
+- Epic: HIGH level objective. Large bucket into which at least one feature will live
+- Story: (“user stories”) Often start with “I want…” and describe actions available for the user.
+- Task: um… a task that needs to be completed
+- Subtask: part of a larger task
+
+Example 0:
+
+- Epic: Player Locomotion 1.0
+- Story: I want to double jump
+- Tasks: capture jump button at right time, not allow jump after peak jump, 
+- Related sub-tasks: input form, handshake with db
+
+![hierarchy](images/hierarchy.png) 
+![workflow](images/workflow.png) 
 ![sprints](images/sprints.png) 
 ![scrumBoard](images/scrumBoard.png) 
 ![scrumBoardTools](images/scrumBoardTools.png) 
-![hierarchy](images/hierarchy.png) 
-![workflow](images/workflow.png) 
 
 Indie Game Dev Specific Concerns
 ===
 
-How do we be creative and stay on track while implementing PM in indie projects?
+_*How do we be creative and stay on track while implementing PM in indie projects?*_
 
 Endcap
 ===
@@ -93,13 +119,17 @@ Stretch Goals
 
 ![pertChart](images/pertChart.png)
 
-![burnDown](images/burnDown.png)
+- burn down
 
-![qAndA.png](images/qAndA.png)
+![qa0](images/qa0.png)
+![qa1](images/qa1.png)
+![qa2](images/qa2.png)
 
 C-Ya
 ---
 ![cya](images/c-ya.png)
+
+---
 
 Please take _60-seconds_ and tell us about your experience in this session!
 =
