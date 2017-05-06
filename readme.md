@@ -3,6 +3,8 @@
 Project Management for Independent Developers
 ===
 
+[https://github.com/devjanaprime/glitchcon17_projectManagementForIndies](https://github.com/devjanaprime/glitchcon17_projectManagementForIndies)
+
 The Menu:
 ---
 - [Who Are We?](#who)
@@ -61,7 +63,6 @@ Helps avoid/mitigate:
 Lessons Learned
 ===
 - DNA
-- guests
 - open floor anecdotes
 
 
@@ -134,9 +135,11 @@ Stretch Goals
 
 C-Ya
 ---
-![cya](images/c-ya.png)
+![cya](images/c-ya.jpg)
+facebook: [devnari](https://facebook.com/devnari)
+twitter: [@dnanewtone](https://twiter.com/dnanewtone)
 
----
+[https://github.com/devjanaprime/glitchcon17_projectManagementForIndies](https://github.com/devjanaprime/glitchcon17_projectManagementForIndies)
 
 Please take _60-seconds_ and tell us about your experience in this session!
 =
