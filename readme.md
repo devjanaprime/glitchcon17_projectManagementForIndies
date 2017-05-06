@@ -140,7 +140,7 @@ Stretch Goals
 
 C-Ya
 ---
-![cya](images/c-ya.jpg)
+![cya](images/c-ya.png)
 facebook: [devnari](https://facebook.com/devnari)
 twitter: [@dnanewtone](https://twiter.com/dnanewtone)
 
